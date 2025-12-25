@@ -411,14 +411,14 @@ export default function Index() {
                   <Icon name="MapPin" size={20} className="text-primary mt-1" />
                   <div>
                     <p className="font-semibold">Адрес причала</p>
-                    <p className="text-muted-foreground">г. Нижний Новгород, Нижне-Волжская набережная, 1</p>
+                    <p className="text-muted-foreground">г. Калуга, Набережная Оки, 1</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
                   <Icon name="Phone" size={20} className="text-primary mt-1" />
                   <div>
                     <p className="font-semibold">Телефон</p>
-                    <p className="text-muted-foreground">+7 (831) 123-45-67</p>
+                    <p className="text-muted-foreground">+7 (4842) 123-45-67</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
@@ -491,7 +491,7 @@ export default function Index() {
             <div>
               <h4 className="font-heading font-semibold mb-4">Контакты</h4>
               <ul className="space-y-2 text-primary-foreground/80">
-                <li>+7 (831) 123-45-67</li>
+                <li>+7 (4842) 123-45-67</li>
                 <li>info@oka-cruise.ru</li>
                 <li>Ежедневно 10:00-21:00</li>
               </ul>
